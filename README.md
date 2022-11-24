@@ -1,0 +1,1 @@
+First I'll be focusing on frontend of the project and I'll start with templates and make it look a little bit different.
